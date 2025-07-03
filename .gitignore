@@ -1,0 +1,139 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Logs and Output files
+*.log
+*.txt
+*.out
+keylog*.txt
+keylog_final.txt
+capture_*.txt
+screenshot_*.png
+*.pcap
+*.cap
+
+# System Files
+*.tmp
+*.temp
+.cache/
+*.pid
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# Spyder
+.spyderproject
+.spyproject
+
+# Rope
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Database
+*.db
+*.sqlite3
+
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Archives
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Security sensitive files
+*.key
+*.pem
+*.p12
+*.pfx
+secrets.txt
+passwords.txt
+config.ini
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Network capture files
+*.pcapng
+*.cap
+*.dump
+
+# Temporary screenshot files
+screenshot_*.jpg
+screenshot_*.jpeg
+screenshot_*.bmp
+screenshot_*.gif
+
+# Application specific
+debug_output.txt
+error_log.txt
+packet_dump.txt
+network_analysis.txt
