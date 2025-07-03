@@ -1,4 +1,4 @@
-# ArchTech CyberSecurity Tools
+# CyberSecurity Tools
 
 A collection of educational cybersecurity tools developed for learning and authorized penetration testing purposes.
 
