@@ -19,7 +19,7 @@ The CyberSecurity Tools project takes security seriously. If you discover a secu
 
 Instead, please:
 
-1. **Email the maintainer directly**: [security@example.com]
+1. **Email the maintainer directly**: umairaziz682@gmail.com
 2. **Use the subject line**: "SECURITY: [Brief Description]"
 3. **Include the following information**:
    - Detailed description of the vulnerability
@@ -92,8 +92,7 @@ These tools are designed for educational and authorized security testing purpose
 ## Contact
 
 For security-related questions or concerns:
-- **Email**: [security@example.com]
-- **PGP Key**: [Link to PGP key if available]
-- **GitHub**: Create a private security advisory
+- **Email**: umairaziz682@gmail.com
+- **GitHub**: https://github.com/umair-aziz025
 
 Thank you for helping keep the CyberSecurity Tools project secure!
