@@ -93,8 +93,8 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 ## 👨‍💻 Author
 
 **Umair Aziz**
-- Email: [umairaziz682@gmail.com]
-- GitHub: [https://github.com/umair-aziz025]
+- Email: umairaziz682@gmail.com
+- GitHub: https://github.com/umair-aziz025
 
 ## 🙏 Acknowledgments
 
