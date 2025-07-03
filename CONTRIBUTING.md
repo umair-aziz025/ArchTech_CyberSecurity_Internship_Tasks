@@ -193,7 +193,7 @@ Closes #42
 
 #### Security Vulnerabilities
 - **DO NOT** create public issues for security vulnerabilities
-- Email the maintainer directly: [security-email@example.com]
+- Email the maintainer directly: umairaziz682@gmail.com
 - Include detailed description and reproduction steps
 - Allow time for responsible disclosure
 
