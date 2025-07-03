@@ -22,10 +22,10 @@ The author and contributors are not responsible for any misuse of these tools. U
 
 ## 🛠️ Tools Included
 
-### 1. Keylogger (`keylogger_task02.py`)
+### 1. Packet Sniffer (`network_sniffer_task01.py`)
 A sophisticated keylogger with graphical interface for authorized security testing and monitoring.
 
-### 2. Packet Sniffer (`network_sniffer_task01.py`)
+### 2. Keylogger (`keylogger_task02.py`)
 A comprehensive network packet analyzer with modern GUI for network security analysis.
 
 ## 📋 Requirements
