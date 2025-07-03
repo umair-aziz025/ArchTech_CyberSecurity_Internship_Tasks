@@ -2,12 +2,7 @@
 
 ## Supported Versions
 
-We actively support and provide security updates for the following versions:
-
-| Version | Supported          |
-| ------- | ------------------ |
-| 1.0.x   | :white_check_mark: |
-| < 1.0   | :x:                |
+We actively support and provide security updates if there any.
 
 ## Reporting a Vulnerability
 
