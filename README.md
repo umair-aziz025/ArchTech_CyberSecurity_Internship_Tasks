@@ -22,10 +22,10 @@ The author and contributors are not responsible for any misuse of these tools. U
 
 ## 🛠️ Tools Included
 
-### 1. Advanced Keylogger GUI (`keylogger_GUI.py`)
+### 1. Keylogger (`keylogger_task02.py`)
 A sophisticated keylogger with graphical interface for authorized security testing and monitoring.
 
-### 2. Packet Sniffer GUI (`sniffer_GUI.py`)
+### 2. Packet Sniffer (`network_sniffer_task01.py`)
 A comprehensive network packet analyzer with modern GUI for network security analysis.
 
 ## 📋 Requirements
@@ -39,8 +39,8 @@ A comprehensive network packet analyzer with modern GUI for network security ana
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/ArchTech_CyberSecurity_UmairAziz.git
-   cd ArchTech_CyberSecurity_UmairAziz
+   git clone https://github.com/umair-aziz025/ArchTech_CyberSecurity_Internship_Tasks
+   cd ArchTech_CyberSecurity_Internship_Tasks
    ```
 
 2. **Install dependencies:**
@@ -51,20 +51,16 @@ A comprehensive network packet analyzer with modern GUI for network security ana
 3. **Run as Administrator:**
    ```bash
    # For Keylogger
-   python main/keylogger_GUI.py
+   python keylogger_task02.py
    
    # For Packet Sniffer
-   python main/sniffer_GUI.py
+   python network_sniffer_task01.py
    ```
 
 ## 📁 Project Structure
 
 ```
-ArchTech_CyberSecurity_UmairAziz/
-├── main/
-│   ├── keylogger_GUI.py          # Advanced Keylogger Tool
-│   ├── sniffer_GUI.py            # Network Packet Sniffer
-│   └── ...                       # Other tools
+ArchTech_CyberSecurity_Internship_Tasks/
 ├── docs/
 │   ├── keylogger_README.md       # Keylogger documentation
 │   └── sniffer_README.md         # Packet Sniffer documentation
@@ -73,6 +69,9 @@ ArchTech_CyberSecurity_UmairAziz/
 ├── LICENSE                       # MIT License
 ├── CONTRIBUTING.md               # Contribution guidelines
 └── README.md                     # This file
+├── keylogger_GUI.py          # Advanced Keylogger Tool
+├── sniffer_GUI.py            # Network Packet Sniffer
+└── ...                       # Other tools
 ```
 
 ## 🛡️ Security Considerations
@@ -85,18 +84,17 @@ ArchTech_CyberSecurity_UmairAziz/
 
 ## 🤝 Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+Please read [CONTRIBUTING.md](https://github.com/umair-aziz025/ArchTech_CyberSecurity_Internship_Tasks/blob/main/CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/umair-aziz025/ArchTech_CyberSecurity_Internship_Tasks/blob/main/LICENSE) file for details.
 
 ## 👨‍💻 Author
 
 **Umair Aziz**
-- Email: [your-email@example.com]
-- GitHub: [@yourusername]
-- LinkedIn: [Your LinkedIn Profile]
+- Email: [umairaziz682@gmail.com]
+- GitHub: [https://github.com/umair-aziz025]
 
 ## 🙏 Acknowledgments
 
