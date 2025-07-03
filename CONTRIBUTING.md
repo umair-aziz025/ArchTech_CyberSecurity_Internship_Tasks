@@ -54,8 +54,8 @@ Examples of unacceptable behavior by participants include:
 
 2. **Clone your fork**
    ```bash
-   git clone https://github.com/yourusername/ArchTech_CyberSecurity_UmairAziz.git
-   cd ArchTech_CyberSecurity_UmairAziz
+   git clone https://github.com/umair-aziz025/ArchTech_CyberSecurity_Internship_Tasks
+   cd ArchTech_CyberSecurity_Internship_Tasks
    ```
 
 3. **Create a development branch**
