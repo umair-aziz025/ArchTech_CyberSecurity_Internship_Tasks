@@ -1,7 +1,5 @@
 # Security Policy
 
-## Supported Versions
-
 We actively support and provide security updates if there any.
 
 ## Reporting a Vulnerability
