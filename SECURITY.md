@@ -11,7 +11,7 @@ We actively support and provide security updates for the following versions:
 
 ## Reporting a Vulnerability
 
-The ArchTech CyberSecurity Tools project takes security seriously. If you discover a security vulnerability, please follow responsible disclosure practices.
+The CyberSecurity Tools project takes security seriously. If you discover a security vulnerability, please follow responsible disclosure practices.
 
 ### How to Report
 
@@ -96,4 +96,4 @@ For security-related questions or concerns:
 - **PGP Key**: [Link to PGP key if available]
 - **GitHub**: Create a private security advisory
 
-Thank you for helping keep the ArchTech CyberSecurity Tools project secure!
+Thank you for helping keep the CyberSecurity Tools project secure!
